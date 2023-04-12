@@ -1,0 +1,30 @@
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A_Football\bin\Debug\net6.0\A_Football.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A_Football\bin\Debug\net6.0\A_Football.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A_Football\bin\Debug\net6.0\A_Football.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A_Football\bin\Debug\net6.0\A_Football.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A_Football\bin\Debug\net6.0\A_Football.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\refint\A_Football.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\ref\A_Football.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A_Football\bin\Debug\net6.0\A_Football.exe
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A_Football\bin\Debug\net6.0\A_Football.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A_Football\bin\Debug\net6.0\A_Football.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A_Football\bin\Debug\net6.0\A_Football.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A_Football\bin\Debug\net6.0\A_Football.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\refint\A_Football.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\ref\A_Football.dll

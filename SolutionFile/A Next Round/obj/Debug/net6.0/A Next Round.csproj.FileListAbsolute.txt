@@ -1,0 +1,15 @@
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Next Round\bin\Debug\net6.0\A Next Round.exe
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Next Round\bin\Debug\net6.0\A Next Round.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Next Round\bin\Debug\net6.0\A Next Round.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Next Round\bin\Debug\net6.0\A Next Round.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Next Round\bin\Debug\net6.0\A Next Round.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\A Next Round.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\A Next Round.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\A Next Round.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\A Next Round.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\A Next Round.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\A Next Round.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\refint\A Next Round.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\A Next Round.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\A Next Round.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\ref\A Next Round.dll

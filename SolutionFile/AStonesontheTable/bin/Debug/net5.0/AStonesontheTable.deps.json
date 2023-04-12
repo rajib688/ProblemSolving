@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AStonesontheTable/1.0.0": {
+        "runtime": {
+          "AStonesontheTable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AStonesontheTable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,30 @@
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\StringTask118A\bin\Debug\net6.0\StringTask118A.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\StringTask118A\bin\Debug\net6.0\StringTask118A.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\StringTask118A\bin\Debug\net6.0\StringTask118A.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\StringTask118A\bin\Debug\net6.0\StringTask118A.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\StringTask118A\bin\Debug\net6.0\StringTask118A.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\StringTask118A\obj\Debug\net6.0\StringTask118A.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\StringTask118A\obj\Debug\net6.0\StringTask118A.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\StringTask118A\obj\Debug\net6.0\StringTask118A.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\StringTask118A\obj\Debug\net6.0\StringTask118A.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\StringTask118A\obj\Debug\net6.0\StringTask118A.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\StringTask118A\obj\Debug\net6.0\StringTask118A.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\StringTask118A\obj\Debug\net6.0\refint\StringTask118A.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\StringTask118A\obj\Debug\net6.0\StringTask118A.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\StringTask118A\obj\Debug\net6.0\StringTask118A.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\StringTask118A\obj\Debug\net6.0\ref\StringTask118A.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\StringTask118A\bin\Debug\net6.0\StringTask118A.exe
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\StringTask118A\bin\Debug\net6.0\StringTask118A.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\StringTask118A\bin\Debug\net6.0\StringTask118A.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\StringTask118A\bin\Debug\net6.0\StringTask118A.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\StringTask118A\bin\Debug\net6.0\StringTask118A.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\StringTask118A\obj\Debug\net6.0\StringTask118A.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\StringTask118A\obj\Debug\net6.0\StringTask118A.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\StringTask118A\obj\Debug\net6.0\StringTask118A.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\StringTask118A\obj\Debug\net6.0\StringTask118A.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\StringTask118A\obj\Debug\net6.0\StringTask118A.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\StringTask118A\obj\Debug\net6.0\StringTask118A.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\StringTask118A\obj\Debug\net6.0\refint\StringTask118A.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\StringTask118A\obj\Debug\net6.0\StringTask118A.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\StringTask118A\obj\Debug\net6.0\StringTask118A.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\StringTask118A\obj\Debug\net6.0\ref\StringTask118A.dll

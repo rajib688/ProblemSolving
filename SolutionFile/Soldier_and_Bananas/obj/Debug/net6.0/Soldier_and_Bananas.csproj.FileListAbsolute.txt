@@ -1,0 +1,30 @@
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Soldier_and_Bananas\bin\Debug\net6.0\Soldier_and_Bananas.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Soldier_and_Bananas\bin\Debug\net6.0\Soldier_and_Bananas.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Soldier_and_Bananas\bin\Debug\net6.0\Soldier_and_Bananas.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Soldier_and_Bananas\bin\Debug\net6.0\Soldier_and_Bananas.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Soldier_and_Bananas\bin\Debug\net6.0\Soldier_and_Bananas.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Soldier_and_Bananas\obj\Debug\net6.0\Soldier_and_Bananas.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Soldier_and_Bananas\obj\Debug\net6.0\Soldier_and_Bananas.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Soldier_and_Bananas\obj\Debug\net6.0\Soldier_and_Bananas.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Soldier_and_Bananas\obj\Debug\net6.0\Soldier_and_Bananas.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Soldier_and_Bananas\obj\Debug\net6.0\Soldier_and_Bananas.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Soldier_and_Bananas\obj\Debug\net6.0\Soldier_and_Bananas.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Soldier_and_Bananas\obj\Debug\net6.0\refint\Soldier_and_Bananas.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Soldier_and_Bananas\obj\Debug\net6.0\Soldier_and_Bananas.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Soldier_and_Bananas\obj\Debug\net6.0\Soldier_and_Bananas.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Soldier_and_Bananas\obj\Debug\net6.0\ref\Soldier_and_Bananas.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Soldier_and_Bananas\bin\Debug\net6.0\Soldier_and_Bananas.exe
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Soldier_and_Bananas\bin\Debug\net6.0\Soldier_and_Bananas.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Soldier_and_Bananas\bin\Debug\net6.0\Soldier_and_Bananas.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Soldier_and_Bananas\bin\Debug\net6.0\Soldier_and_Bananas.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Soldier_and_Bananas\bin\Debug\net6.0\Soldier_and_Bananas.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Soldier_and_Bananas\obj\Debug\net6.0\Soldier_and_Bananas.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Soldier_and_Bananas\obj\Debug\net6.0\Soldier_and_Bananas.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Soldier_and_Bananas\obj\Debug\net6.0\Soldier_and_Bananas.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Soldier_and_Bananas\obj\Debug\net6.0\Soldier_and_Bananas.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Soldier_and_Bananas\obj\Debug\net6.0\Soldier_and_Bananas.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Soldier_and_Bananas\obj\Debug\net6.0\Soldier_and_Bananas.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Soldier_and_Bananas\obj\Debug\net6.0\refint\Soldier_and_Bananas.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Soldier_and_Bananas\obj\Debug\net6.0\Soldier_and_Bananas.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Soldier_and_Bananas\obj\Debug\net6.0\Soldier_and_Bananas.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Soldier_and_Bananas\obj\Debug\net6.0\ref\Soldier_and_Bananas.dll

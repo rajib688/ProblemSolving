@@ -1,0 +1,30 @@
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\112APetya\bin\Debug\net6.0\112APetya.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\112APetya\bin\Debug\net6.0\112APetya.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\112APetya\bin\Debug\net6.0\112APetya.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\112APetya\bin\Debug\net6.0\112APetya.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\112APetya\bin\Debug\net6.0\112APetya.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\112APetya\obj\Debug\net6.0\112APetya.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\112APetya\obj\Debug\net6.0\112APetya.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\112APetya\obj\Debug\net6.0\112APetya.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\112APetya\obj\Debug\net6.0\112APetya.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\112APetya\obj\Debug\net6.0\112APetya.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\112APetya\obj\Debug\net6.0\112APetya.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\112APetya\obj\Debug\net6.0\refint\112APetya.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\112APetya\obj\Debug\net6.0\112APetya.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\112APetya\obj\Debug\net6.0\112APetya.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\112APetya\obj\Debug\net6.0\ref\112APetya.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\112APetya\bin\Debug\net6.0\112APetya.exe
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\112APetya\bin\Debug\net6.0\112APetya.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\112APetya\bin\Debug\net6.0\112APetya.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\112APetya\bin\Debug\net6.0\112APetya.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\112APetya\bin\Debug\net6.0\112APetya.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\112APetya\obj\Debug\net6.0\112APetya.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\112APetya\obj\Debug\net6.0\112APetya.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\112APetya\obj\Debug\net6.0\112APetya.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\112APetya\obj\Debug\net6.0\112APetya.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\112APetya\obj\Debug\net6.0\112APetya.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\112APetya\obj\Debug\net6.0\112APetya.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\112APetya\obj\Debug\net6.0\refint\112APetya.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\112APetya\obj\Debug\net6.0\112APetya.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\112APetya\obj\Debug\net6.0\112APetya.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\112APetya\obj\Debug\net6.0\ref\112APetya.dll

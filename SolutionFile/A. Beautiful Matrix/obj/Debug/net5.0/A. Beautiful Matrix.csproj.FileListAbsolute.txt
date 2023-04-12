@@ -1,0 +1,32 @@
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.runtimeconfig.dev.json
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\refint\A. Beautiful Matrix.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\ref\A. Beautiful Matrix.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.exe
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.runtimeconfig.dev.json
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\refint\A. Beautiful Matrix.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\ref\A. Beautiful Matrix.dll

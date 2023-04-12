@@ -1,0 +1,30 @@
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Wrong Subtraction\bin\Debug\net6.0\Wrong Subtraction.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Wrong Subtraction\bin\Debug\net6.0\Wrong Subtraction.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Wrong Subtraction\bin\Debug\net6.0\Wrong Subtraction.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Wrong Subtraction\bin\Debug\net6.0\Wrong Subtraction.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Wrong Subtraction\bin\Debug\net6.0\Wrong Subtraction.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Wrong Subtraction\obj\Debug\net6.0\refint\Wrong Subtraction.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Wrong Subtraction\obj\Debug\net6.0\ref\Wrong Subtraction.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Wrong Subtraction\bin\Debug\net6.0\Wrong Subtraction.exe
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Wrong Subtraction\bin\Debug\net6.0\Wrong Subtraction.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Wrong Subtraction\bin\Debug\net6.0\Wrong Subtraction.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Wrong Subtraction\bin\Debug\net6.0\Wrong Subtraction.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Wrong Subtraction\bin\Debug\net6.0\Wrong Subtraction.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Wrong Subtraction\obj\Debug\net6.0\refint\Wrong Subtraction.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Wrong Subtraction\obj\Debug\net6.0\ref\Wrong Subtraction.dll

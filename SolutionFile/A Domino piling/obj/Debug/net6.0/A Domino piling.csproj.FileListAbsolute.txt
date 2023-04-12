@@ -1,0 +1,15 @@
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Domino piling\bin\Debug\net6.0\A Domino piling.exe
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Domino piling\bin\Debug\net6.0\A Domino piling.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Domino piling\bin\Debug\net6.0\A Domino piling.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Domino piling\bin\Debug\net6.0\A Domino piling.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Domino piling\bin\Debug\net6.0\A Domino piling.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Domino piling\obj\Debug\net6.0\A Domino piling.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Domino piling\obj\Debug\net6.0\A Domino piling.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Domino piling\obj\Debug\net6.0\A Domino piling.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Domino piling\obj\Debug\net6.0\A Domino piling.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Domino piling\obj\Debug\net6.0\A Domino piling.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Domino piling\obj\Debug\net6.0\A Domino piling.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Domino piling\obj\Debug\net6.0\refint\A Domino piling.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Domino piling\obj\Debug\net6.0\A Domino piling.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Domino piling\obj\Debug\net6.0\A Domino piling.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Domino piling\obj\Debug\net6.0\ref\A Domino piling.dll

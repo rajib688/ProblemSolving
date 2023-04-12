@@ -1,0 +1,30 @@
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Check_leapYear_OrNot\bin\Debug\net6.0\Check_leapYear_OrNot.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Check_leapYear_OrNot\bin\Debug\net6.0\Check_leapYear_OrNot.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Check_leapYear_OrNot\bin\Debug\net6.0\Check_leapYear_OrNot.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Check_leapYear_OrNot\bin\Debug\net6.0\Check_leapYear_OrNot.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Check_leapYear_OrNot\bin\Debug\net6.0\Check_leapYear_OrNot.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Check_leapYear_OrNot\obj\Debug\net6.0\Check_leapYear_OrNot.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Check_leapYear_OrNot\obj\Debug\net6.0\Check_leapYear_OrNot.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Check_leapYear_OrNot\obj\Debug\net6.0\Check_leapYear_OrNot.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Check_leapYear_OrNot\obj\Debug\net6.0\Check_leapYear_OrNot.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Check_leapYear_OrNot\obj\Debug\net6.0\Check_leapYear_OrNot.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Check_leapYear_OrNot\obj\Debug\net6.0\Check_leapYear_OrNot.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Check_leapYear_OrNot\obj\Debug\net6.0\refint\Check_leapYear_OrNot.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Check_leapYear_OrNot\obj\Debug\net6.0\Check_leapYear_OrNot.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Check_leapYear_OrNot\obj\Debug\net6.0\Check_leapYear_OrNot.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\ProblemSolving\SolutionFile\Check_leapYear_OrNot\obj\Debug\net6.0\ref\Check_leapYear_OrNot.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Check_leapYear_OrNot\bin\Debug\net6.0\Check_leapYear_OrNot.exe
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Check_leapYear_OrNot\bin\Debug\net6.0\Check_leapYear_OrNot.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Check_leapYear_OrNot\bin\Debug\net6.0\Check_leapYear_OrNot.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Check_leapYear_OrNot\bin\Debug\net6.0\Check_leapYear_OrNot.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Check_leapYear_OrNot\bin\Debug\net6.0\Check_leapYear_OrNot.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Check_leapYear_OrNot\obj\Debug\net6.0\Check_leapYear_OrNot.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Check_leapYear_OrNot\obj\Debug\net6.0\Check_leapYear_OrNot.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Check_leapYear_OrNot\obj\Debug\net6.0\Check_leapYear_OrNot.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Check_leapYear_OrNot\obj\Debug\net6.0\Check_leapYear_OrNot.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Check_leapYear_OrNot\obj\Debug\net6.0\Check_leapYear_OrNot.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Check_leapYear_OrNot\obj\Debug\net6.0\Check_leapYear_OrNot.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Check_leapYear_OrNot\obj\Debug\net6.0\refint\Check_leapYear_OrNot.dll
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Check_leapYear_OrNot\obj\Debug\net6.0\Check_leapYear_OrNot.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Check_leapYear_OrNot\obj\Debug\net6.0\Check_leapYear_OrNot.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Check_leapYear_OrNot\obj\Debug\net6.0\ref\Check_leapYear_OrNot.dll
