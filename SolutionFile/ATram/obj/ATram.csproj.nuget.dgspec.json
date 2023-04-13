@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\ATram\\ATram.csproj": {}
+    "H:\\GitHub\\ProblemSolving\\SolutionFile\\ATram\\ATram.csproj": {}
   },
   "projects": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\ATram\\ATram.csproj": {
+    "H:\\GitHub\\ProblemSolving\\SolutionFile\\ATram\\ATram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\ATram\\ATram.csproj",
+        "projectUniqueName": "H:\\GitHub\\ProblemSolving\\SolutionFile\\ATram\\ATram.csproj",
         "projectName": "ATram",
-        "projectPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\ATram\\ATram.csproj",
+        "projectPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\ATram\\ATram.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\ATram\\obj\\",
+        "outputPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\ATram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

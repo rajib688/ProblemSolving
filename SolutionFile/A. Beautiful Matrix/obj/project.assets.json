@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\A. Beautiful Matrix\\A. Beautiful Matrix.csproj",
+      "projectUniqueName": "H:\\GitHub\\ProblemSolving\\SolutionFile\\A. Beautiful Matrix\\A. Beautiful Matrix.csproj",
       "projectName": "A. Beautiful Matrix",
-      "projectPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\A. Beautiful Matrix\\A. Beautiful Matrix.csproj",
+      "projectPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\A. Beautiful Matrix\\A. Beautiful Matrix.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\A. Beautiful Matrix\\obj\\",
+      "outputPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\A. Beautiful Matrix\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

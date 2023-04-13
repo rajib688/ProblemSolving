@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\AWord\\AWord.csproj": {}
+    "H:\\GitHub\\ProblemSolving\\SolutionFile\\AWord\\AWord.csproj": {}
   },
   "projects": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\AWord\\AWord.csproj": {
+    "H:\\GitHub\\ProblemSolving\\SolutionFile\\AWord\\AWord.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\AWord\\AWord.csproj",
+        "projectUniqueName": "H:\\GitHub\\ProblemSolving\\SolutionFile\\AWord\\AWord.csproj",
         "projectName": "AWord",
-        "projectPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\AWord\\AWord.csproj",
+        "projectPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\AWord\\AWord.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\AWord\\obj\\",
+        "outputPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\AWord\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

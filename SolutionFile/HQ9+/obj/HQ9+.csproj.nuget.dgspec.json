@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\HQ9+\\HQ9+.csproj": {}
+    "H:\\GitHub\\ProblemSolving\\SolutionFile\\HQ9+\\HQ9+.csproj": {}
   },
   "projects": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\HQ9+\\HQ9+.csproj": {
+    "H:\\GitHub\\ProblemSolving\\SolutionFile\\HQ9+\\HQ9+.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\HQ9+\\HQ9+.csproj",
+        "projectUniqueName": "H:\\GitHub\\ProblemSolving\\SolutionFile\\HQ9+\\HQ9+.csproj",
         "projectName": "HQ9+",
-        "projectPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\HQ9+\\HQ9+.csproj",
+        "projectPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\HQ9+\\HQ9+.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\HQ9+\\obj\\",
+        "outputPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\HQ9+\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\AStonesontheTable\\AStonesontheTable.csproj",
+      "projectUniqueName": "H:\\GitHub\\ProblemSolving\\SolutionFile\\AStonesontheTable\\AStonesontheTable.csproj",
       "projectName": "AStonesontheTable",
-      "projectPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\AStonesontheTable\\AStonesontheTable.csproj",
+      "projectPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\AStonesontheTable\\AStonesontheTable.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\AStonesontheTable\\obj\\",
+      "outputPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\AStonesontheTable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

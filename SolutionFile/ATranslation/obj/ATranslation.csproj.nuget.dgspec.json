@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\ATranslation\\ATranslation.csproj": {}
+    "H:\\GitHub\\ProblemSolving\\SolutionFile\\ATranslation\\ATranslation.csproj": {}
   },
   "projects": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\ATranslation\\ATranslation.csproj": {
+    "H:\\GitHub\\ProblemSolving\\SolutionFile\\ATranslation\\ATranslation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\ATranslation\\ATranslation.csproj",
+        "projectUniqueName": "H:\\GitHub\\ProblemSolving\\SolutionFile\\ATranslation\\ATranslation.csproj",
         "projectName": "ATranslation",
-        "projectPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\ATranslation\\ATranslation.csproj",
+        "projectPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\ATranslation\\ATranslation.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\ATranslation\\obj\\",
+        "outputPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\ATranslation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

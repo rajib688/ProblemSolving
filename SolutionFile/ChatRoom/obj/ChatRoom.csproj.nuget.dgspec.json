@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\ChatRoom\\ChatRoom.csproj": {}
+    "H:\\GitHub\\ProblemSolving\\SolutionFile\\ChatRoom\\ChatRoom.csproj": {}
   },
   "projects": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\ChatRoom\\ChatRoom.csproj": {
+    "H:\\GitHub\\ProblemSolving\\SolutionFile\\ChatRoom\\ChatRoom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\ChatRoom\\ChatRoom.csproj",
+        "projectUniqueName": "H:\\GitHub\\ProblemSolving\\SolutionFile\\ChatRoom\\ChatRoom.csproj",
         "projectName": "ChatRoom",
-        "projectPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\ChatRoom\\ChatRoom.csproj",
+        "projectPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\ChatRoom\\ChatRoom.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\ChatRoom\\obj\\",
+        "outputPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\ChatRoom\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

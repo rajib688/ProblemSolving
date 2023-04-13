@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\AElephant\\AElephant.csproj",
+      "projectUniqueName": "H:\\GitHub\\ProblemSolving\\SolutionFile\\AElephant\\AElephant.csproj",
       "projectName": "AElephant",
-      "projectPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\AElephant\\AElephant.csproj",
+      "projectPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\AElephant\\AElephant.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\AElephant\\obj\\",
+      "outputPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\AElephant\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

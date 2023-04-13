@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\A_Football\\A_Football.csproj",
+      "projectUniqueName": "H:\\GitHub\\ProblemSolving\\SolutionFile\\A_Football\\A_Football.csproj",
       "projectName": "A_Football",
-      "projectPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\A_Football\\A_Football.csproj",
+      "projectPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\A_Football\\A_Football.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\A_Football\\obj\\",
+      "outputPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\A_Football\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

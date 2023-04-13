@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\Wrong Subtraction\\Wrong Subtraction.csproj": {}
+    "H:\\GitHub\\ProblemSolving\\SolutionFile\\Wrong Subtraction\\Wrong Subtraction.csproj": {}
   },
   "projects": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\Wrong Subtraction\\Wrong Subtraction.csproj": {
+    "H:\\GitHub\\ProblemSolving\\SolutionFile\\Wrong Subtraction\\Wrong Subtraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\Wrong Subtraction\\Wrong Subtraction.csproj",
+        "projectUniqueName": "H:\\GitHub\\ProblemSolving\\SolutionFile\\Wrong Subtraction\\Wrong Subtraction.csproj",
         "projectName": "Wrong Subtraction",
-        "projectPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\Wrong Subtraction\\Wrong Subtraction.csproj",
+        "projectPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\Wrong Subtraction\\Wrong Subtraction.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\Wrong Subtraction\\obj\\",
+        "outputPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\Wrong Subtraction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

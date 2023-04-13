@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\A Next Round\\A Next Round.csproj",
+      "projectUniqueName": "H:\\GitHub\\ProblemSolving\\SolutionFile\\A Next Round\\A Next Round.csproj",
       "projectName": "A Next Round",
-      "projectPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\A Next Round\\A Next Round.csproj",
+      "projectPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\A Next Round\\A Next Round.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\A Next Round\\obj\\",
+      "outputPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\A Next Round\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

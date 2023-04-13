@@ -1,0 +1,15 @@
+H:\GitHub\ProblemSolving\SolutionFile\A. Lucky Division\bin\Debug\net6.0\A. Lucky Division.exe
+H:\GitHub\ProblemSolving\SolutionFile\A. Lucky Division\bin\Debug\net6.0\A. Lucky Division.deps.json
+H:\GitHub\ProblemSolving\SolutionFile\A. Lucky Division\bin\Debug\net6.0\A. Lucky Division.runtimeconfig.json
+H:\GitHub\ProblemSolving\SolutionFile\A. Lucky Division\bin\Debug\net6.0\A. Lucky Division.dll
+H:\GitHub\ProblemSolving\SolutionFile\A. Lucky Division\bin\Debug\net6.0\A. Lucky Division.pdb
+H:\GitHub\ProblemSolving\SolutionFile\A. Lucky Division\obj\Debug\net6.0\A. Lucky Division.csproj.AssemblyReference.cache
+H:\GitHub\ProblemSolving\SolutionFile\A. Lucky Division\obj\Debug\net6.0\A. Lucky Division.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\ProblemSolving\SolutionFile\A. Lucky Division\obj\Debug\net6.0\A. Lucky Division.AssemblyInfoInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\A. Lucky Division\obj\Debug\net6.0\A. Lucky Division.AssemblyInfo.cs
+H:\GitHub\ProblemSolving\SolutionFile\A. Lucky Division\obj\Debug\net6.0\A. Lucky Division.csproj.CoreCompileInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\A. Lucky Division\obj\Debug\net6.0\A. Lucky Division.dll
+H:\GitHub\ProblemSolving\SolutionFile\A. Lucky Division\obj\Debug\net6.0\refint\A. Lucky Division.dll
+H:\GitHub\ProblemSolving\SolutionFile\A. Lucky Division\obj\Debug\net6.0\A. Lucky Division.pdb
+H:\GitHub\ProblemSolving\SolutionFile\A. Lucky Division\obj\Debug\net6.0\A. Lucky Division.genruntimeconfig.cache
+H:\GitHub\ProblemSolving\SolutionFile\A. Lucky Division\obj\Debug\net6.0\ref\A. Lucky Division.dll

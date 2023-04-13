@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\A_BeautifulYear\\A_BeautifulYear.csproj": {}
+    "H:\\GitHub\\ProblemSolving\\SolutionFile\\A_BeautifulYear\\A_BeautifulYear.csproj": {}
   },
   "projects": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\A_BeautifulYear\\A_BeautifulYear.csproj": {
+    "H:\\GitHub\\ProblemSolving\\SolutionFile\\A_BeautifulYear\\A_BeautifulYear.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\A_BeautifulYear\\A_BeautifulYear.csproj",
+        "projectUniqueName": "H:\\GitHub\\ProblemSolving\\SolutionFile\\A_BeautifulYear\\A_BeautifulYear.csproj",
         "projectName": "A_BeautifulYear",
-        "projectPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\A_BeautifulYear\\A_BeautifulYear.csproj",
+        "projectPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\A_BeautifulYear\\A_BeautifulYear.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill C#\\ProblemSolving\\SolutionFile\\A_BeautifulYear\\obj\\",
+        "outputPath": "H:\\GitHub\\ProblemSolving\\SolutionFile\\A_BeautifulYear\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
