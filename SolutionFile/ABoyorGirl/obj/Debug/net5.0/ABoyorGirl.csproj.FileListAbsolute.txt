@@ -14,3 +14,19 @@ F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\ABoyorGirl\obj\
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\ABoyorGirl\obj\Debug\net5.0\ABoyorGirl.pdb
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\ABoyorGirl\obj\Debug\net5.0\ABoyorGirl.genruntimeconfig.cache
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\ABoyorGirl\obj\Debug\net5.0\ref\ABoyorGirl.dll
+H:\GitHub\ProblemSolving\SolutionFile\ABoyorGirl\bin\Debug\net5.0\ABoyorGirl.exe
+H:\GitHub\ProblemSolving\SolutionFile\ABoyorGirl\bin\Debug\net5.0\ABoyorGirl.deps.json
+H:\GitHub\ProblemSolving\SolutionFile\ABoyorGirl\bin\Debug\net5.0\ABoyorGirl.runtimeconfig.json
+H:\GitHub\ProblemSolving\SolutionFile\ABoyorGirl\bin\Debug\net5.0\ABoyorGirl.runtimeconfig.dev.json
+H:\GitHub\ProblemSolving\SolutionFile\ABoyorGirl\bin\Debug\net5.0\ABoyorGirl.dll
+H:\GitHub\ProblemSolving\SolutionFile\ABoyorGirl\bin\Debug\net5.0\ABoyorGirl.pdb
+H:\GitHub\ProblemSolving\SolutionFile\ABoyorGirl\obj\Debug\net5.0\ABoyorGirl.csproj.AssemblyReference.cache
+H:\GitHub\ProblemSolving\SolutionFile\ABoyorGirl\obj\Debug\net5.0\ABoyorGirl.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\ProblemSolving\SolutionFile\ABoyorGirl\obj\Debug\net5.0\ABoyorGirl.AssemblyInfoInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\ABoyorGirl\obj\Debug\net5.0\ABoyorGirl.AssemblyInfo.cs
+H:\GitHub\ProblemSolving\SolutionFile\ABoyorGirl\obj\Debug\net5.0\ABoyorGirl.csproj.CoreCompileInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\ABoyorGirl\obj\Debug\net5.0\ABoyorGirl.dll
+H:\GitHub\ProblemSolving\SolutionFile\ABoyorGirl\obj\Debug\net5.0\refint\ABoyorGirl.dll
+H:\GitHub\ProblemSolving\SolutionFile\ABoyorGirl\obj\Debug\net5.0\ABoyorGirl.pdb
+H:\GitHub\ProblemSolving\SolutionFile\ABoyorGirl\obj\Debug\net5.0\ABoyorGirl.genruntimeconfig.cache
+H:\GitHub\ProblemSolving\SolutionFile\ABoyorGirl\obj\Debug\net5.0\ref\ABoyorGirl.dll

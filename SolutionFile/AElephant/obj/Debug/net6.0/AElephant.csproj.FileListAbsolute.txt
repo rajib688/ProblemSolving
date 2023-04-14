@@ -13,3 +13,18 @@ F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\AElephant\obj\D
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\AElephant\obj\Debug\net6.0\AElephant.pdb
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\AElephant\obj\Debug\net6.0\AElephant.genruntimeconfig.cache
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\AElephant\obj\Debug\net6.0\ref\AElephant.dll
+H:\GitHub\ProblemSolving\SolutionFile\AElephant\bin\Debug\net6.0\AElephant.exe
+H:\GitHub\ProblemSolving\SolutionFile\AElephant\bin\Debug\net6.0\AElephant.deps.json
+H:\GitHub\ProblemSolving\SolutionFile\AElephant\bin\Debug\net6.0\AElephant.runtimeconfig.json
+H:\GitHub\ProblemSolving\SolutionFile\AElephant\bin\Debug\net6.0\AElephant.dll
+H:\GitHub\ProblemSolving\SolutionFile\AElephant\bin\Debug\net6.0\AElephant.pdb
+H:\GitHub\ProblemSolving\SolutionFile\AElephant\obj\Debug\net6.0\AElephant.csproj.AssemblyReference.cache
+H:\GitHub\ProblemSolving\SolutionFile\AElephant\obj\Debug\net6.0\AElephant.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\ProblemSolving\SolutionFile\AElephant\obj\Debug\net6.0\AElephant.AssemblyInfoInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\AElephant\obj\Debug\net6.0\AElephant.AssemblyInfo.cs
+H:\GitHub\ProblemSolving\SolutionFile\AElephant\obj\Debug\net6.0\AElephant.csproj.CoreCompileInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\AElephant\obj\Debug\net6.0\AElephant.dll
+H:\GitHub\ProblemSolving\SolutionFile\AElephant\obj\Debug\net6.0\refint\AElephant.dll
+H:\GitHub\ProblemSolving\SolutionFile\AElephant\obj\Debug\net6.0\AElephant.pdb
+H:\GitHub\ProblemSolving\SolutionFile\AElephant\obj\Debug\net6.0\AElephant.genruntimeconfig.cache
+H:\GitHub\ProblemSolving\SolutionFile\AElephant\obj\Debug\net6.0\ref\AElephant.dll

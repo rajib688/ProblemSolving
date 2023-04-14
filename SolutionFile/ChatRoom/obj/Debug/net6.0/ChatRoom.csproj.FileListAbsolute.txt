@@ -13,3 +13,18 @@ F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\ChatRoom\obj\De
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\ChatRoom\obj\Debug\net6.0\ChatRoom.pdb
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\ChatRoom\obj\Debug\net6.0\ChatRoom.genruntimeconfig.cache
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\ChatRoom\obj\Debug\net6.0\ref\ChatRoom.dll
+H:\GitHub\ProblemSolving\SolutionFile\ChatRoom\bin\Debug\net6.0\ChatRoom.exe
+H:\GitHub\ProblemSolving\SolutionFile\ChatRoom\bin\Debug\net6.0\ChatRoom.deps.json
+H:\GitHub\ProblemSolving\SolutionFile\ChatRoom\bin\Debug\net6.0\ChatRoom.runtimeconfig.json
+H:\GitHub\ProblemSolving\SolutionFile\ChatRoom\bin\Debug\net6.0\ChatRoom.dll
+H:\GitHub\ProblemSolving\SolutionFile\ChatRoom\bin\Debug\net6.0\ChatRoom.pdb
+H:\GitHub\ProblemSolving\SolutionFile\ChatRoom\obj\Debug\net6.0\ChatRoom.csproj.AssemblyReference.cache
+H:\GitHub\ProblemSolving\SolutionFile\ChatRoom\obj\Debug\net6.0\ChatRoom.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\ProblemSolving\SolutionFile\ChatRoom\obj\Debug\net6.0\ChatRoom.AssemblyInfoInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\ChatRoom\obj\Debug\net6.0\ChatRoom.AssemblyInfo.cs
+H:\GitHub\ProblemSolving\SolutionFile\ChatRoom\obj\Debug\net6.0\ChatRoom.csproj.CoreCompileInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\ChatRoom\obj\Debug\net6.0\ChatRoom.dll
+H:\GitHub\ProblemSolving\SolutionFile\ChatRoom\obj\Debug\net6.0\refint\ChatRoom.dll
+H:\GitHub\ProblemSolving\SolutionFile\ChatRoom\obj\Debug\net6.0\ChatRoom.pdb
+H:\GitHub\ProblemSolving\SolutionFile\ChatRoom\obj\Debug\net6.0\ChatRoom.genruntimeconfig.cache
+H:\GitHub\ProblemSolving\SolutionFile\ChatRoom\obj\Debug\net6.0\ref\ChatRoom.dll

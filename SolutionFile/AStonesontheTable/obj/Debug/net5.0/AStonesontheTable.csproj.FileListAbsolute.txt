@@ -14,3 +14,19 @@ F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\AStonesontheTab
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\AStonesontheTable\obj\Debug\net5.0\AStonesontheTable.pdb
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\AStonesontheTable\obj\Debug\net5.0\AStonesontheTable.genruntimeconfig.cache
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\AStonesontheTable\obj\Debug\net5.0\ref\AStonesontheTable.dll
+H:\GitHub\ProblemSolving\SolutionFile\AStonesontheTable\bin\Debug\net5.0\AStonesontheTable.exe
+H:\GitHub\ProblemSolving\SolutionFile\AStonesontheTable\bin\Debug\net5.0\AStonesontheTable.deps.json
+H:\GitHub\ProblemSolving\SolutionFile\AStonesontheTable\bin\Debug\net5.0\AStonesontheTable.runtimeconfig.json
+H:\GitHub\ProblemSolving\SolutionFile\AStonesontheTable\bin\Debug\net5.0\AStonesontheTable.runtimeconfig.dev.json
+H:\GitHub\ProblemSolving\SolutionFile\AStonesontheTable\bin\Debug\net5.0\AStonesontheTable.dll
+H:\GitHub\ProblemSolving\SolutionFile\AStonesontheTable\bin\Debug\net5.0\AStonesontheTable.pdb
+H:\GitHub\ProblemSolving\SolutionFile\AStonesontheTable\obj\Debug\net5.0\AStonesontheTable.csproj.AssemblyReference.cache
+H:\GitHub\ProblemSolving\SolutionFile\AStonesontheTable\obj\Debug\net5.0\AStonesontheTable.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\ProblemSolving\SolutionFile\AStonesontheTable\obj\Debug\net5.0\AStonesontheTable.AssemblyInfoInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\AStonesontheTable\obj\Debug\net5.0\AStonesontheTable.AssemblyInfo.cs
+H:\GitHub\ProblemSolving\SolutionFile\AStonesontheTable\obj\Debug\net5.0\AStonesontheTable.csproj.CoreCompileInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\AStonesontheTable\obj\Debug\net5.0\AStonesontheTable.dll
+H:\GitHub\ProblemSolving\SolutionFile\AStonesontheTable\obj\Debug\net5.0\refint\AStonesontheTable.dll
+H:\GitHub\ProblemSolving\SolutionFile\AStonesontheTable\obj\Debug\net5.0\AStonesontheTable.pdb
+H:\GitHub\ProblemSolving\SolutionFile\AStonesontheTable\obj\Debug\net5.0\AStonesontheTable.genruntimeconfig.cache
+H:\GitHub\ProblemSolving\SolutionFile\AStonesontheTable\obj\Debug\net5.0\ref\AStonesontheTable.dll

@@ -30,3 +30,19 @@ F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Beautiful Ma
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.pdb
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.genruntimeconfig.cache
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\ref\A. Beautiful Matrix.dll
+H:\GitHub\ProblemSolving\SolutionFile\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.exe
+H:\GitHub\ProblemSolving\SolutionFile\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.deps.json
+H:\GitHub\ProblemSolving\SolutionFile\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.runtimeconfig.json
+H:\GitHub\ProblemSolving\SolutionFile\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.runtimeconfig.dev.json
+H:\GitHub\ProblemSolving\SolutionFile\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.dll
+H:\GitHub\ProblemSolving\SolutionFile\A. Beautiful Matrix\bin\Debug\net5.0\A. Beautiful Matrix.pdb
+H:\GitHub\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.csproj.AssemblyReference.cache
+H:\GitHub\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.AssemblyInfoInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.AssemblyInfo.cs
+H:\GitHub\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.csproj.CoreCompileInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.dll
+H:\GitHub\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\refint\A. Beautiful Matrix.dll
+H:\GitHub\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.pdb
+H:\GitHub\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\A. Beautiful Matrix.genruntimeconfig.cache
+H:\GitHub\ProblemSolving\SolutionFile\A. Beautiful Matrix\obj\Debug\net5.0\ref\A. Beautiful Matrix.dll

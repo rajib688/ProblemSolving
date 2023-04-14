@@ -13,3 +13,18 @@ F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Next Round\ob
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\A Next Round.pdb
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\A Next Round.genruntimeconfig.cache
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\ref\A Next Round.dll
+H:\GitHub\ProblemSolving\SolutionFile\A Next Round\bin\Debug\net6.0\A Next Round.exe
+H:\GitHub\ProblemSolving\SolutionFile\A Next Round\bin\Debug\net6.0\A Next Round.deps.json
+H:\GitHub\ProblemSolving\SolutionFile\A Next Round\bin\Debug\net6.0\A Next Round.runtimeconfig.json
+H:\GitHub\ProblemSolving\SolutionFile\A Next Round\bin\Debug\net6.0\A Next Round.dll
+H:\GitHub\ProblemSolving\SolutionFile\A Next Round\bin\Debug\net6.0\A Next Round.pdb
+H:\GitHub\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\A Next Round.csproj.AssemblyReference.cache
+H:\GitHub\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\A Next Round.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\A Next Round.AssemblyInfoInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\A Next Round.AssemblyInfo.cs
+H:\GitHub\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\A Next Round.csproj.CoreCompileInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\A Next Round.dll
+H:\GitHub\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\refint\A Next Round.dll
+H:\GitHub\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\A Next Round.pdb
+H:\GitHub\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\A Next Round.genruntimeconfig.cache
+H:\GitHub\ProblemSolving\SolutionFile\A Next Round\obj\Debug\net6.0\ref\A Next Round.dll

@@ -28,3 +28,18 @@ F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\HelpfulMaths339
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\HelpfulMaths339\obj\Debug\net6.0\HelpfulMaths339.pdb
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\HelpfulMaths339\obj\Debug\net6.0\HelpfulMaths339.genruntimeconfig.cache
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\HelpfulMaths339\obj\Debug\net6.0\ref\HelpfulMaths339.dll
+H:\GitHub\ProblemSolving\SolutionFile\HelpfulMaths339\bin\Debug\net6.0\HelpfulMaths339.exe
+H:\GitHub\ProblemSolving\SolutionFile\HelpfulMaths339\bin\Debug\net6.0\HelpfulMaths339.deps.json
+H:\GitHub\ProblemSolving\SolutionFile\HelpfulMaths339\bin\Debug\net6.0\HelpfulMaths339.runtimeconfig.json
+H:\GitHub\ProblemSolving\SolutionFile\HelpfulMaths339\bin\Debug\net6.0\HelpfulMaths339.dll
+H:\GitHub\ProblemSolving\SolutionFile\HelpfulMaths339\bin\Debug\net6.0\HelpfulMaths339.pdb
+H:\GitHub\ProblemSolving\SolutionFile\HelpfulMaths339\obj\Debug\net6.0\HelpfulMaths339.csproj.AssemblyReference.cache
+H:\GitHub\ProblemSolving\SolutionFile\HelpfulMaths339\obj\Debug\net6.0\HelpfulMaths339.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\ProblemSolving\SolutionFile\HelpfulMaths339\obj\Debug\net6.0\HelpfulMaths339.AssemblyInfoInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\HelpfulMaths339\obj\Debug\net6.0\HelpfulMaths339.AssemblyInfo.cs
+H:\GitHub\ProblemSolving\SolutionFile\HelpfulMaths339\obj\Debug\net6.0\HelpfulMaths339.csproj.CoreCompileInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\HelpfulMaths339\obj\Debug\net6.0\HelpfulMaths339.dll
+H:\GitHub\ProblemSolving\SolutionFile\HelpfulMaths339\obj\Debug\net6.0\refint\HelpfulMaths339.dll
+H:\GitHub\ProblemSolving\SolutionFile\HelpfulMaths339\obj\Debug\net6.0\HelpfulMaths339.pdb
+H:\GitHub\ProblemSolving\SolutionFile\HelpfulMaths339\obj\Debug\net6.0\HelpfulMaths339.genruntimeconfig.cache
+H:\GitHub\ProblemSolving\SolutionFile\HelpfulMaths339\obj\Debug\net6.0\ref\HelpfulMaths339.dll

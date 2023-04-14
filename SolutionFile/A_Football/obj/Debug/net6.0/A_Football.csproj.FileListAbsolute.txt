@@ -28,3 +28,18 @@ F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A_Football\obj\
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.pdb
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.genruntimeconfig.cache
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\ref\A_Football.dll
+H:\GitHub\ProblemSolving\SolutionFile\A_Football\bin\Debug\net6.0\A_Football.exe
+H:\GitHub\ProblemSolving\SolutionFile\A_Football\bin\Debug\net6.0\A_Football.deps.json
+H:\GitHub\ProblemSolving\SolutionFile\A_Football\bin\Debug\net6.0\A_Football.runtimeconfig.json
+H:\GitHub\ProblemSolving\SolutionFile\A_Football\bin\Debug\net6.0\A_Football.dll
+H:\GitHub\ProblemSolving\SolutionFile\A_Football\bin\Debug\net6.0\A_Football.pdb
+H:\GitHub\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.csproj.AssemblyReference.cache
+H:\GitHub\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.AssemblyInfoInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.AssemblyInfo.cs
+H:\GitHub\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.csproj.CoreCompileInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.dll
+H:\GitHub\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\refint\A_Football.dll
+H:\GitHub\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.pdb
+H:\GitHub\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\A_Football.genruntimeconfig.cache
+H:\GitHub\ProblemSolving\SolutionFile\A_Football\obj\Debug\net6.0\ref\A_Football.dll

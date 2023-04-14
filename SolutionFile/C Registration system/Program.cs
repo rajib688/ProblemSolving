@@ -6,7 +6,7 @@ Dictionary<string, int> database = new Dictionary<string, int>();
 
 string s;
 
-while (n<0)
+while (n>0)
 {
     s = Console.ReadLine();
 
@@ -20,4 +20,5 @@ while (n<0)
         Console.WriteLine($"{s}" + database[s]);       
         database[s] += 1;
     }
+    n--;
 }

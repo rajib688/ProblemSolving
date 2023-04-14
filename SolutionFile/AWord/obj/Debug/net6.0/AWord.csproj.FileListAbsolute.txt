@@ -13,3 +13,18 @@ F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\AWord\obj\Debug
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\AWord\obj\Debug\net6.0\AWord.pdb
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\AWord\obj\Debug\net6.0\AWord.genruntimeconfig.cache
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\AWord\obj\Debug\net6.0\ref\AWord.dll
+H:\GitHub\ProblemSolving\SolutionFile\AWord\bin\Debug\net6.0\AWord.exe
+H:\GitHub\ProblemSolving\SolutionFile\AWord\bin\Debug\net6.0\AWord.deps.json
+H:\GitHub\ProblemSolving\SolutionFile\AWord\bin\Debug\net6.0\AWord.runtimeconfig.json
+H:\GitHub\ProblemSolving\SolutionFile\AWord\bin\Debug\net6.0\AWord.dll
+H:\GitHub\ProblemSolving\SolutionFile\AWord\bin\Debug\net6.0\AWord.pdb
+H:\GitHub\ProblemSolving\SolutionFile\AWord\obj\Debug\net6.0\AWord.csproj.AssemblyReference.cache
+H:\GitHub\ProblemSolving\SolutionFile\AWord\obj\Debug\net6.0\AWord.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\ProblemSolving\SolutionFile\AWord\obj\Debug\net6.0\AWord.AssemblyInfoInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\AWord\obj\Debug\net6.0\AWord.AssemblyInfo.cs
+H:\GitHub\ProblemSolving\SolutionFile\AWord\obj\Debug\net6.0\AWord.csproj.CoreCompileInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\AWord\obj\Debug\net6.0\AWord.dll
+H:\GitHub\ProblemSolving\SolutionFile\AWord\obj\Debug\net6.0\refint\AWord.dll
+H:\GitHub\ProblemSolving\SolutionFile\AWord\obj\Debug\net6.0\AWord.pdb
+H:\GitHub\ProblemSolving\SolutionFile\AWord\obj\Debug\net6.0\AWord.genruntimeconfig.cache
+H:\GitHub\ProblemSolving\SolutionFile\AWord\obj\Debug\net6.0\ref\AWord.dll

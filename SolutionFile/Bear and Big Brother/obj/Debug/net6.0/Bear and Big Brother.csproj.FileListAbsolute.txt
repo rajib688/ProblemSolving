@@ -28,3 +28,18 @@ F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Bear and Big Br
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Bear and Big Brother\obj\Debug\net6.0\Bear and Big Brother.pdb
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Bear and Big Brother\obj\Debug\net6.0\Bear and Big Brother.genruntimeconfig.cache
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\Bear and Big Brother\obj\Debug\net6.0\ref\Bear and Big Brother.dll
+H:\GitHub\ProblemSolving\SolutionFile\Bear and Big Brother\bin\Debug\net6.0\Bear and Big Brother.exe
+H:\GitHub\ProblemSolving\SolutionFile\Bear and Big Brother\bin\Debug\net6.0\Bear and Big Brother.deps.json
+H:\GitHub\ProblemSolving\SolutionFile\Bear and Big Brother\bin\Debug\net6.0\Bear and Big Brother.runtimeconfig.json
+H:\GitHub\ProblemSolving\SolutionFile\Bear and Big Brother\bin\Debug\net6.0\Bear and Big Brother.dll
+H:\GitHub\ProblemSolving\SolutionFile\Bear and Big Brother\bin\Debug\net6.0\Bear and Big Brother.pdb
+H:\GitHub\ProblemSolving\SolutionFile\Bear and Big Brother\obj\Debug\net6.0\Bear and Big Brother.csproj.AssemblyReference.cache
+H:\GitHub\ProblemSolving\SolutionFile\Bear and Big Brother\obj\Debug\net6.0\Bear and Big Brother.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\ProblemSolving\SolutionFile\Bear and Big Brother\obj\Debug\net6.0\Bear and Big Brother.AssemblyInfoInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\Bear and Big Brother\obj\Debug\net6.0\Bear and Big Brother.AssemblyInfo.cs
+H:\GitHub\ProblemSolving\SolutionFile\Bear and Big Brother\obj\Debug\net6.0\Bear and Big Brother.csproj.CoreCompileInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\Bear and Big Brother\obj\Debug\net6.0\Bear and Big Brother.dll
+H:\GitHub\ProblemSolving\SolutionFile\Bear and Big Brother\obj\Debug\net6.0\refint\Bear and Big Brother.dll
+H:\GitHub\ProblemSolving\SolutionFile\Bear and Big Brother\obj\Debug\net6.0\Bear and Big Brother.pdb
+H:\GitHub\ProblemSolving\SolutionFile\Bear and Big Brother\obj\Debug\net6.0\Bear and Big Brother.genruntimeconfig.cache
+H:\GitHub\ProblemSolving\SolutionFile\Bear and Big Brother\obj\Debug\net6.0\ref\Bear and Big Brother.dll

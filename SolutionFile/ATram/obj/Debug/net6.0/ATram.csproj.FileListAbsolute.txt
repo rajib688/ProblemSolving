@@ -13,3 +13,18 @@ F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\ATram\obj\Debug
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\ATram\obj\Debug\net6.0\ATram.pdb
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\ATram\obj\Debug\net6.0\ATram.genruntimeconfig.cache
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\ATram\obj\Debug\net6.0\ref\ATram.dll
+H:\GitHub\ProblemSolving\SolutionFile\ATram\bin\Debug\net6.0\ATram.exe
+H:\GitHub\ProblemSolving\SolutionFile\ATram\bin\Debug\net6.0\ATram.deps.json
+H:\GitHub\ProblemSolving\SolutionFile\ATram\bin\Debug\net6.0\ATram.runtimeconfig.json
+H:\GitHub\ProblemSolving\SolutionFile\ATram\bin\Debug\net6.0\ATram.dll
+H:\GitHub\ProblemSolving\SolutionFile\ATram\bin\Debug\net6.0\ATram.pdb
+H:\GitHub\ProblemSolving\SolutionFile\ATram\obj\Debug\net6.0\ATram.csproj.AssemblyReference.cache
+H:\GitHub\ProblemSolving\SolutionFile\ATram\obj\Debug\net6.0\ATram.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\ProblemSolving\SolutionFile\ATram\obj\Debug\net6.0\ATram.AssemblyInfoInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\ATram\obj\Debug\net6.0\ATram.AssemblyInfo.cs
+H:\GitHub\ProblemSolving\SolutionFile\ATram\obj\Debug\net6.0\ATram.csproj.CoreCompileInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\ATram\obj\Debug\net6.0\ATram.dll
+H:\GitHub\ProblemSolving\SolutionFile\ATram\obj\Debug\net6.0\refint\ATram.dll
+H:\GitHub\ProblemSolving\SolutionFile\ATram\obj\Debug\net6.0\ATram.pdb
+H:\GitHub\ProblemSolving\SolutionFile\ATram\obj\Debug\net6.0\ATram.genruntimeconfig.cache
+H:\GitHub\ProblemSolving\SolutionFile\ATram\obj\Debug\net6.0\ref\ATram.dll

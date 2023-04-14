@@ -30,3 +30,19 @@ F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Bit++\obj\De
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Bit++\obj\Debug\net5.0\A. Bit++.pdb
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Bit++\obj\Debug\net5.0\A. Bit++.genruntimeconfig.cache
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\A. Bit++\obj\Debug\net5.0\ref\A. Bit++.dll
+H:\GitHub\ProblemSolving\SolutionFile\A. Bit++\bin\Debug\net5.0\A. Bit++.exe
+H:\GitHub\ProblemSolving\SolutionFile\A. Bit++\bin\Debug\net5.0\A. Bit++.deps.json
+H:\GitHub\ProblemSolving\SolutionFile\A. Bit++\bin\Debug\net5.0\A. Bit++.runtimeconfig.json
+H:\GitHub\ProblemSolving\SolutionFile\A. Bit++\bin\Debug\net5.0\A. Bit++.runtimeconfig.dev.json
+H:\GitHub\ProblemSolving\SolutionFile\A. Bit++\bin\Debug\net5.0\A. Bit++.dll
+H:\GitHub\ProblemSolving\SolutionFile\A. Bit++\bin\Debug\net5.0\A. Bit++.pdb
+H:\GitHub\ProblemSolving\SolutionFile\A. Bit++\obj\Debug\net5.0\A. Bit++.csproj.AssemblyReference.cache
+H:\GitHub\ProblemSolving\SolutionFile\A. Bit++\obj\Debug\net5.0\A. Bit++.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\ProblemSolving\SolutionFile\A. Bit++\obj\Debug\net5.0\A. Bit++.AssemblyInfoInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\A. Bit++\obj\Debug\net5.0\A. Bit++.AssemblyInfo.cs
+H:\GitHub\ProblemSolving\SolutionFile\A. Bit++\obj\Debug\net5.0\A. Bit++.csproj.CoreCompileInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\A. Bit++\obj\Debug\net5.0\A. Bit++.dll
+H:\GitHub\ProblemSolving\SolutionFile\A. Bit++\obj\Debug\net5.0\refint\A. Bit++.dll
+H:\GitHub\ProblemSolving\SolutionFile\A. Bit++\obj\Debug\net5.0\A. Bit++.pdb
+H:\GitHub\ProblemSolving\SolutionFile\A. Bit++\obj\Debug\net5.0\A. Bit++.genruntimeconfig.cache
+H:\GitHub\ProblemSolving\SolutionFile\A. Bit++\obj\Debug\net5.0\ref\A. Bit++.dll

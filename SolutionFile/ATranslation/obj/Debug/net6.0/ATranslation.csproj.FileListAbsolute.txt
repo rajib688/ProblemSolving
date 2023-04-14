@@ -13,3 +13,11 @@ F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\ATranslation\ob
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\ATranslation\obj\Debug\net6.0\ATranslation.pdb
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\ATranslation\obj\Debug\net6.0\ATranslation.genruntimeconfig.cache
 F:\RAJIB__Books\Dot Net\Dev Skill C#\ProblemSolving\SolutionFile\ATranslation\obj\Debug\net6.0\ref\ATranslation.dll
+H:\GitHub\ProblemSolving\SolutionFile\ATranslation\obj\Debug\net6.0\ATranslation.csproj.AssemblyReference.cache
+H:\GitHub\ProblemSolving\SolutionFile\ATranslation\obj\Debug\net6.0\ATranslation.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\ProblemSolving\SolutionFile\ATranslation\obj\Debug\net6.0\ATranslation.AssemblyInfoInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\ATranslation\obj\Debug\net6.0\ATranslation.AssemblyInfo.cs
+H:\GitHub\ProblemSolving\SolutionFile\ATranslation\obj\Debug\net6.0\ATranslation.csproj.CoreCompileInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\ATranslation\obj\Debug\net6.0\ATranslation.dll
+H:\GitHub\ProblemSolving\SolutionFile\ATranslation\obj\Debug\net6.0\refint\ATranslation.dll
+H:\GitHub\ProblemSolving\SolutionFile\ATranslation\obj\Debug\net6.0\ATranslation.pdb
