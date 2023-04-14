@@ -1,0 +1,33 @@
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\C Registration system.exe
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\C Registration system.deps.json
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\C Registration system.runtimeconfig.json
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\C Registration system.dll
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\C Registration system.pdb
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\Antlr3.Runtime.dll
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\Iesi.Collections.dll
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\NHibernate.dll
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\Remotion.Linq.dll
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\Remotion.Linq.EagerFetching.dll
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\Xamarin.Essentials.dll
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\obj\Debug\net6.0\C Registration system.csproj.AssemblyReference.cache
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\obj\Debug\net6.0\C Registration system.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\obj\Debug\net6.0\C Registration system.AssemblyInfoInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\obj\Debug\net6.0\C Registration system.AssemblyInfo.cs
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\obj\Debug\net6.0\C Registration system.csproj.CoreCompileInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\obj\Debug\net6.0\C Registration system.csproj.CopyComplete
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\obj\Debug\net6.0\C Registration system.dll
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\obj\Debug\net6.0\refint\C Registration system.dll
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\obj\Debug\net6.0\C Registration system.pdb
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\obj\Debug\net6.0\C Registration system.genruntimeconfig.cache
+H:\GitHub\ProblemSolving\SolutionFile\C Registration system\obj\Debug\net6.0\ref\C Registration system.dll
