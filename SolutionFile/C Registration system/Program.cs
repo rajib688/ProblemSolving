@@ -1,14 +1,11 @@
 ﻿
 
-using NHibernate.Mapping;
-using System.Configuration;
-using System.Linq;
-
 int n = int.Parse(Console.ReadLine());
 
 Dictionary<string, int> database = new Dictionary<string, int>();
 
 string s;
+
 while (n<0)
 {
     s = Console.ReadLine();
