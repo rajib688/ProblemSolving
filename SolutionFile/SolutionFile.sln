@@ -51,7 +51,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Lucky Division", "A. Luc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C Registration system", "C Registration system\C Registration system.csproj", "{11FE22E9-3F06-490C-84EA-D4200AD90F43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A Presents", "A Presents\A Presents.csproj", "{1A714927-BD8C-4D3C-990B-512E40EE0C4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A Presents", "A Presents\A Presents.csproj", "{1A714927-BD8C-4D3C-990B-512E40EE0C4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nearly Lucky Number", "Nearly Lucky Number\Nearly Lucky Number.csproj", "{33C06AE7-FD66-45FF-855B-FFF5AE9E50A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{1A714927-BD8C-4D3C-990B-512E40EE0C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A714927-BD8C-4D3C-990B-512E40EE0C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A714927-BD8C-4D3C-990B-512E40EE0C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C06AE7-FD66-45FF-855B-FFF5AE9E50A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C06AE7-FD66-45FF-855B-FFF5AE9E50A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C06AE7-FD66-45FF-855B-FFF5AE9E50A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C06AE7-FD66-45FF-855B-FFF5AE9E50A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

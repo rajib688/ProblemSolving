@@ -1,0 +1,15 @@
+H:\GitHub\ProblemSolving\SolutionFile\Nearly Lucky Number\bin\Debug\net6.0\Nearly Lucky Number.exe
+H:\GitHub\ProblemSolving\SolutionFile\Nearly Lucky Number\bin\Debug\net6.0\Nearly Lucky Number.deps.json
+H:\GitHub\ProblemSolving\SolutionFile\Nearly Lucky Number\bin\Debug\net6.0\Nearly Lucky Number.runtimeconfig.json
+H:\GitHub\ProblemSolving\SolutionFile\Nearly Lucky Number\bin\Debug\net6.0\Nearly Lucky Number.dll
+H:\GitHub\ProblemSolving\SolutionFile\Nearly Lucky Number\bin\Debug\net6.0\Nearly Lucky Number.pdb
+H:\GitHub\ProblemSolving\SolutionFile\Nearly Lucky Number\obj\Debug\net6.0\Nearly Lucky Number.csproj.AssemblyReference.cache
+H:\GitHub\ProblemSolving\SolutionFile\Nearly Lucky Number\obj\Debug\net6.0\Nearly Lucky Number.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\ProblemSolving\SolutionFile\Nearly Lucky Number\obj\Debug\net6.0\Nearly Lucky Number.AssemblyInfoInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\Nearly Lucky Number\obj\Debug\net6.0\Nearly Lucky Number.AssemblyInfo.cs
+H:\GitHub\ProblemSolving\SolutionFile\Nearly Lucky Number\obj\Debug\net6.0\Nearly Lucky Number.csproj.CoreCompileInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\Nearly Lucky Number\obj\Debug\net6.0\Nearly Lucky Number.dll
+H:\GitHub\ProblemSolving\SolutionFile\Nearly Lucky Number\obj\Debug\net6.0\refint\Nearly Lucky Number.dll
+H:\GitHub\ProblemSolving\SolutionFile\Nearly Lucky Number\obj\Debug\net6.0\Nearly Lucky Number.pdb
+H:\GitHub\ProblemSolving\SolutionFile\Nearly Lucky Number\obj\Debug\net6.0\Nearly Lucky Number.genruntimeconfig.cache
+H:\GitHub\ProblemSolving\SolutionFile\Nearly Lucky Number\obj\Debug\net6.0\ref\Nearly Lucky Number.dll
