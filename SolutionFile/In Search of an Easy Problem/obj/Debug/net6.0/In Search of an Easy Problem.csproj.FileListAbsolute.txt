@@ -1,0 +1,15 @@
+H:\GitHub\ProblemSolving\SolutionFile\In Search of an Easy Problem\bin\Debug\net6.0\In Search of an Easy Problem.exe
+H:\GitHub\ProblemSolving\SolutionFile\In Search of an Easy Problem\bin\Debug\net6.0\In Search of an Easy Problem.deps.json
+H:\GitHub\ProblemSolving\SolutionFile\In Search of an Easy Problem\bin\Debug\net6.0\In Search of an Easy Problem.runtimeconfig.json
+H:\GitHub\ProblemSolving\SolutionFile\In Search of an Easy Problem\bin\Debug\net6.0\In Search of an Easy Problem.dll
+H:\GitHub\ProblemSolving\SolutionFile\In Search of an Easy Problem\bin\Debug\net6.0\In Search of an Easy Problem.pdb
+H:\GitHub\ProblemSolving\SolutionFile\In Search of an Easy Problem\obj\Debug\net6.0\In Search of an Easy Problem.csproj.AssemblyReference.cache
+H:\GitHub\ProblemSolving\SolutionFile\In Search of an Easy Problem\obj\Debug\net6.0\In Search of an Easy Problem.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\ProblemSolving\SolutionFile\In Search of an Easy Problem\obj\Debug\net6.0\In Search of an Easy Problem.AssemblyInfoInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\In Search of an Easy Problem\obj\Debug\net6.0\In Search of an Easy Problem.AssemblyInfo.cs
+H:\GitHub\ProblemSolving\SolutionFile\In Search of an Easy Problem\obj\Debug\net6.0\In Search of an Easy Problem.csproj.CoreCompileInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\In Search of an Easy Problem\obj\Debug\net6.0\In Search of an Easy Problem.dll
+H:\GitHub\ProblemSolving\SolutionFile\In Search of an Easy Problem\obj\Debug\net6.0\refint\In Search of an Easy Problem.dll
+H:\GitHub\ProblemSolving\SolutionFile\In Search of an Easy Problem\obj\Debug\net6.0\In Search of an Easy Problem.pdb
+H:\GitHub\ProblemSolving\SolutionFile\In Search of an Easy Problem\obj\Debug\net6.0\In Search of an Easy Problem.genruntimeconfig.cache
+H:\GitHub\ProblemSolving\SolutionFile\In Search of an Easy Problem\obj\Debug\net6.0\ref\In Search of an Easy Problem.dll
