@@ -59,7 +59,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "In Search of an EasyProblem
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Amusing Joke", "Amusing Joke\Amusing Joke.csproj", "{DB9DB087-EE32-4C61-9880-3B613664AD33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A Sum", "A Sum\A Sum.csproj", "{3436BEFE-7276-471D-918A-3DB71C345AEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A Sum", "A Sum\A Sum.csproj", "{3436BEFE-7276-471D-918A-3DB71C345AEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YES or YES", "YES or YES\YES or YES.csproj", "{3B1B090C-2F52-4959-9EF3-67C6CA817E7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{3436BEFE-7276-471D-918A-3DB71C345AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3436BEFE-7276-471D-918A-3DB71C345AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3436BEFE-7276-471D-918A-3DB71C345AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B1B090C-2F52-4959-9EF3-67C6CA817E7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1B090C-2F52-4959-9EF3-67C6CA817E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B1B090C-2F52-4959-9EF3-67C6CA817E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B1B090C-2F52-4959-9EF3-67C6CA817E7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

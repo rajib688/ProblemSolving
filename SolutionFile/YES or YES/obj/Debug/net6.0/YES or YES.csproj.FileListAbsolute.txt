@@ -1,0 +1,15 @@
+H:\GitHub\ProblemSolving\SolutionFile\YES or YES\bin\Debug\net6.0\YES or YES.exe
+H:\GitHub\ProblemSolving\SolutionFile\YES or YES\bin\Debug\net6.0\YES or YES.deps.json
+H:\GitHub\ProblemSolving\SolutionFile\YES or YES\bin\Debug\net6.0\YES or YES.runtimeconfig.json
+H:\GitHub\ProblemSolving\SolutionFile\YES or YES\bin\Debug\net6.0\YES or YES.dll
+H:\GitHub\ProblemSolving\SolutionFile\YES or YES\bin\Debug\net6.0\YES or YES.pdb
+H:\GitHub\ProblemSolving\SolutionFile\YES or YES\obj\Debug\net6.0\YES or YES.csproj.AssemblyReference.cache
+H:\GitHub\ProblemSolving\SolutionFile\YES or YES\obj\Debug\net6.0\YES or YES.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\ProblemSolving\SolutionFile\YES or YES\obj\Debug\net6.0\YES or YES.AssemblyInfoInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\YES or YES\obj\Debug\net6.0\YES or YES.AssemblyInfo.cs
+H:\GitHub\ProblemSolving\SolutionFile\YES or YES\obj\Debug\net6.0\YES or YES.csproj.CoreCompileInputs.cache
+H:\GitHub\ProblemSolving\SolutionFile\YES or YES\obj\Debug\net6.0\YES or YES.dll
+H:\GitHub\ProblemSolving\SolutionFile\YES or YES\obj\Debug\net6.0\refint\YES or YES.dll
+H:\GitHub\ProblemSolving\SolutionFile\YES or YES\obj\Debug\net6.0\YES or YES.pdb
+H:\GitHub\ProblemSolving\SolutionFile\YES or YES\obj\Debug\net6.0\YES or YES.genruntimeconfig.cache
+H:\GitHub\ProblemSolving\SolutionFile\YES or YES\obj\Debug\net6.0\ref\YES or YES.dll
